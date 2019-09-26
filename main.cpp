@@ -39,7 +39,7 @@ if (toupper (last.at(last.length()-1)) == 'E' || toupper (last.at(last.length()-
 /* (toupper (last.at(last.length())) == 'A' || toupper (last.at(strlen(last)) == 'E' || toupper (last.at(strlen(last)) == 'U' || toupper (last.at(strlen(last)) == 'O' || toupper (last.at(strlen(last)) == 'I')
 */
 {
-        cout<<"you have already met you true love."<<endl;
+        cout<<"you have already met your true love."<<endl;
 }
 
 cout<<"have a good day!"<<endl;
